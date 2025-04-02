@@ -387,10 +387,13 @@ h3 {
 }
 
 .buttom-ribon svg {
-    display: flex;
-    align-items: flex-end;
+    display: inline-flex;
+    align-items: center;
     justify-content: center;
-
+    margin-left: 8px;
+    width: 12px;
+    height: 12px;
+    vertical-align: middle;
 }
 
 /* Page 2 */
